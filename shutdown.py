@@ -1,3 +1,4 @@
+# put this file into the Desktop
 import RPi.GPIO as GPIO
 import time import os
 buttonPin = 21
